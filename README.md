@@ -1,11 +1,11 @@
 
 # JupyterLab-Configuration
 
-The [JupyterLab-Configurator](https://lean-data-science.com/#/configure-jupyterlab) lets you easily create your **JupyterLab configuration** that runs JupyterLab in a **container** and automates the whole setup using **scripts**. A container is a separated environment that encapsulates the libraries you install in it without affecting your host computer. Scripts automate executing all the commands you would normally need to run manually. For you can review and edit scripts, you get full control of your configuration at any time.
+The [JupyterLab-Configurator](https://www.lean-data-science.com) lets you easily create your **JupyterLab configuration** that runs JupyterLab in a **container** and automates the whole setup using **scripts**. A container is a separated environment that encapsulates the libraries you install in it without affecting your host computer. Scripts automate executing all the commands you would normally need to run manually. For you can review and edit scripts, you get full control of your configuration at any time.
 
 **Create** your JupyterLab configuration:
 
-1. Create your configuration with a few clicks with the [**JupyterLab-Configurator**](https://lean-data-science.com/#/configure-jupyterlab)
+1. Create your configuration with a few clicks with the [**JupyterLab-Configurator**](https://www.lean-data-science.com/)
 1. Download and unzip your configuration
 1. Customize it to your needs (optional)
 
